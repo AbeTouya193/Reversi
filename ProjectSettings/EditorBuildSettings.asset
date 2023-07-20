@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Revessi/Scenes/Title.unity
+    guid: 3fce41f44681da24db940daed4637ee1
+  - enabled: 1
+    path: Assets/_Revessi/Scenes/Game.unity
+    guid: 29fc93c084dc6db4d9aac7b4dc494270
+  - enabled: 1
+    path: Assets/_Revessi/Scenes/BlackWin.unity
+    guid: 8c04e1decccee894db89ecb73880fd04
+  - enabled: 1
+    path: Assets/_Revessi/Scenes/WhiteWin.unity
+    guid: 39695ba2014b551438ed1c07370679c5
+  - enabled: 1
+    path: Assets/_Revessi/Scenes/Draw.unity
+    guid: 1aa2d83b05d85a34e966f5f56580bbeb
+  m_configObjects: {}
